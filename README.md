@@ -13,13 +13,14 @@
 <img src="WhatsApp Image 2025-11-08 at 15.45.59_501655c3.jpg" alt="Family Tree Demo" width="600"/>
 
 ---
+```
 ### DEMO 
 
 <a href="https://youtu.be/tCugHnx20Zg" target="_blank">
   <img src="https://img.youtube.com/vi/tCugHnx20Zg/0.jpg" alt="Watch EMMA Demo Video" width="600"/>
 </a>
----
-
+```
+```
 ## 💡 **About the Project**
 
 Elder Mood Mirror (EMMA) is an AI-powered web platform created to enhance the emotional and mental well-being of senior citizens. It combines real-time mood detection through camera-based facial emotion analysis with daily wellness surveys to help elders track their emotional health and receive timely support.
@@ -30,7 +31,8 @@ EMMA is designed not to replace family support, but to strengthen it. By offerin
 
 Through AI-driven insights and shared visibility across caregivers, doctors, and family members, EMMA empowers a collaborative ecosystem of care  promoting early intervention, emotional stability, and a sense of belonging for elders
 ---
-
+```
+```
 ## 🌟 **Key Features**
 
 1. **Dual Login System:** Separate logins for elders and doctors with role-based dashboards.
@@ -45,7 +47,9 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 10. **Data Security:** End-to-end encrypted communication ensuring privacy.
 
 ---
+```
 
+```
 ## 🧩 **System Architecture**
 
 * **Frontend:** HTML, CSS, JavaScript, React.js
@@ -54,7 +58,9 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 * **Authentication:** JWT-based secure login with password hashing
 * **AI Model Integration:** Facial Emotion Recognition & Mood Classification
 * **Hosting:** Vercel , Github
+```
 
+```
 ## 👥 **User Roles & Dashboards**
 
 ### 🧓 Elder
@@ -70,7 +76,8 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 * Communicates with guardians through in-app chat.
 
 ---
-
+```
+```
 ## 🤖 **AI Tools & Technologies Used**
 
 | **Tool / Library**           | **Purpose**                                              |
@@ -82,10 +89,10 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 | Pandas / NumPy /chart.js     | Data preprocessing and analytics                         |
 |Figma                         | Frontend Development                                     |
 
-
+```
 
 ---
-
+```
 ## ⚙️ **Installation & Setup**
 
 1. Clone the repository:
@@ -108,7 +115,9 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 5. Open `http://localhost:3000` in your browser.
 
 ---
+```
 
+```
 ## 🚀 **Usage Guide**
 
 * **Elder Login:** Use camera and fill survey to record daily mood.
@@ -116,7 +125,8 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 * **Admin (optional):** Manage users and monitor system activity.
 
 ---
-
+```
+```
 ## 🔮 **Future Enhancements**
 
 * Integration with wearable health devices (heart rate, sleep tracking).
@@ -125,10 +135,10 @@ Through AI-driven insights and shared visibility across caregivers, doctors, and
 * Predictive analytics for early detection of mental decline.
 
 ---
-
-
+```
 
 ## 📄 **License**
 
 This project is licensed under the [MIT License](LICENSE).
+
 
