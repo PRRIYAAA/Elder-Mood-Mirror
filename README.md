@@ -1,7 +1,10 @@
 # Elder-Mood-Mirror-Application (EMMA)
 
 ### Empowering mental wellness for elders through AI-driven mood detection and doctor-assisted analysis.
+## Dashboard 
 
+[Elder dashboard]()
+[Doctor dashboard]()
 ## 📘 **Table of Contents**
 
 1. [About the Project](#about-the-project)
