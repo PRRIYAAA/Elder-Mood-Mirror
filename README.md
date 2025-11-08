@@ -3,7 +3,6 @@
 ### Empowering mental wellness for elders through AI-driven mood detection and doctor-assisted analysis.
 ## Dashboard 
 
-![Doctor dashboard](WhatsApp Image 2025-11-08 at 15.49.55_64b10618.jpg)
 ---
 
 ## 💡 **About the Project**
