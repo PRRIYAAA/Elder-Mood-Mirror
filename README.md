@@ -4,19 +4,8 @@
 ## Dashboard 
 
 [Elder dashboard]()
-[Doctor dashboard]()
-## 📘 **Table of Contents**
+[Doctor dashboard](WhatsApp Image 2025-11-08 at 15.49.55_64b10618.jpg)
 
-1. [About the Project](#about-the-project)
-2. [Key Features](#key-features)
-3. [System Architecture](#system-architecture)
-4. [User Roles & Dashboards](#user-roles--dashboards)
-5. [AI Tools & Technologies Used](#ai-tools--technologies-used)
-6. [Installation & Setup](#installation--setup)
-7. [Usage Guide](#usage-guide)
-8. [Future Enhancements](#future-enhancements)
-9. [Contributors](#contributors)
-10. [License](#license)
 
 ---
 
