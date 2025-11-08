@@ -2,6 +2,9 @@
 
 ### Empowering mental wellness for elders through AI-driven mood detection and doctor-assisted analysis.
 ---
+### Project Link
+https://emma.figma.site/
+---
 ## Dashboard 
 
 <img src="WhatsApp Image 2025-11-08 at 15.58.54_e574495d.jpg" alt="Family Tree Demo" width="600"/>
