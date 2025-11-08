@@ -15,10 +15,10 @@
 ---
 ### DEMO 
 
-<video width="600" controls>
-  <source src="" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" 
+       alt="Watch Demo Video" width="600"/>
+</a>
 ---
 
 ## 💡 **About the Project**
