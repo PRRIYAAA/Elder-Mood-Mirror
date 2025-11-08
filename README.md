@@ -11,18 +11,18 @@ https://emma.figma.site/
 ### Elder Dashboard
 <img src="WhatsApp Image 2025-11-08 at 15.58.54_e574495d.jpg" alt="Family Tree Demo" width="600"/> 
 
-### Hospital Dashboard
+### Doctor Dashboard
 <img src="WhatsApp Image 2025-11-08 at 15.49.55_64b10618.jpg" alt="Family Tree Demo" width="600"/>
 
 ## RAG implementation
-<img src="WhatsApp Image 2025-11-08 at 15.46.19_47bd74d8.jpg" alt="Family Tree Demo" width="300"/>
+<img src="WhatsApp Image 2025-11-08 at 15.46.19_47bd74d8.jpg" alt="Family Tree Demo" width="600"/>
 
-<img src="WhatsApp Image 2025-11-08 at 15.45.35_f5e760f3.jpg" alt="Family Tree Demo" width="300"/>
+<img src="WhatsApp Image 2025-11-08 at 15.45.35_f5e760f3.jpg" alt="Family Tree Demo" width="600"/>
 
-<img src="WhatsApp Image 2025-11-08 at 15.45.59_501655c3.jpg" alt="Family Tree Demo" width="300"/>
+<img src="WhatsApp Image 2025-11-08 at 15.45.59_501655c3.jpg" alt="Family Tree Demo" width="600"/>
 
 ## Mail implementation 
-<img src="WhatsApp Image 2025-11-08 at 15.41.57_3286256d.jpg" alt="Family Tree Demo" width="300"/>
+<img src="WhatsApp Image 2025-11-08 at 15.41.57_3286256d.jpg" alt="Family Tree Demo" width="600"/>
 
 ---
 
